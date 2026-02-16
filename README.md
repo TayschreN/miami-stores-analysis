@@ -9,8 +9,11 @@ Projeto de análise de dados desenvolvido com foco em entender como **clima, loc
 - Jacksonville
 
 ---
+
 ![Dashboard](Dashboard.png)
---
+
+---
+
 ## Objetivos do Projeto:
 
 Fornecer insights estratégicos para melhorar:
@@ -23,7 +26,7 @@ Fornecer insights estratégicos para melhorar:
 
 ---
 
-### Problema de Negócio:
+### Problemas de Negócio:
 
 As vendas sofrem forte influência de:
 
@@ -48,9 +51,9 @@ No entanto, a gestão não possuía clareza sobre:
 
 Integração de três fontes principais:
 
-- 📊 Vendas diárias
-- 🌦️ Dados climáticos (temperatura e chuva)
-- 👥 Pesquisas demográficas de clientes
+-  Vendas diárias
+-  Dados climáticos (temperatura e chuva)
+-  Pesquisas demográficas de clientes
 
 ---
 
@@ -58,27 +61,27 @@ Integração de três fontes principais:
 
 Criação de painel interativo para stakeholders com:
 
-### 🔹 KPIs Principais
+###  KPIs Principais
 - Quantidade de Clientes: **209K**
 - Soma de Vendas: **$3,55M**
 
-### 🔹 Vendas vs Temperatura
+###  Vendas vs Temperatura
 Análise temporal relacionando:
 - Soma de vendas ($)
 - Média de temperatura (°F)
 
-### 🔹 Média de Vendas por Loja
+###  Média de Vendas por Loja
 Comparação entre:
 - Miami Beach
 - Orlando
 - Tampa
 - Jacksonville
 
-### 🔹 Perfil Demográfico
+###  Perfil Demográfico
 - Famílias vs Solteiros
 - Masculino vs Feminino
 
-### 🔹 Filtros Interativos
+###  Filtros Interativos
 - Período
 - Condição climática (Dia de Sol / Dia de Chuva)
 
@@ -123,8 +126,6 @@ Comparação entre:
 - SQL
 - Power BI
 - Modelagem Relacional
-- Análise Estatística
-
 ---
 
 ## Conclusão:
@@ -143,4 +144,13 @@ O projeto fornece uma base sólida para:
 - Evolução para modelos preditivos
 
 ---
+
+## Aprendizado:
+
+Este projeto foi desenvolvido acompanhando a aula disponível neste vídeo: 
+https://youtu.be/Hh5-Y_6v5iU?si=eh6AwEdUlCiOm4ZM.
+Ao longo do projeto, aprofundei meus conhecimentos em conceitos e técnicas importantes 
+Recomendo fortemente para quem deseja evoluir seus estudos em Data Analytics e Business Intelligence.
+
+
 
